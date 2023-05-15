@@ -1,0 +1,6 @@
+node_modules
+.env
+typechain-types
+artifacts
+cache
+package-lock.json
