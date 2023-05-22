@@ -30,6 +30,8 @@ The function `batchTransferMultiTokens` can be used for making batch transaction
 
 The function `batchTransferCombinedMultiTokens` can be used for a batch transaction involving a combination of multiple ERC20 tokens and native coin (eg: ETH).
 
+<img src="images/batch2.png" alt="Alt text" title="Optional title" width="800">
+
 ## Requirements to run this repository
 
 You can compile, run tests and deploy this smart contract with Hardhat.
